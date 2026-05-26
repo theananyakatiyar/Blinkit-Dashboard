@@ -15,10 +15,10 @@ This dashboard provides insights into Blinkit's sales performance using dynamic 
 - Average Rating: 3.97
 
 ## Features and Techniques Used
-- Pivot Tables — to summarise sales, ratings, and item counts
-- Pivot Charts — donuts, bar charts, and line chart built from pivot data
-- Slicers — interactive filters for Outlet Size, Location Type, and Item Type
-- Dynamic "View By" toggle — switching between Sales, Count, and Rating metrics
+- Pivot Tables - to summarise sales, ratings, and item counts
+- Pivot Charts - donuts, bar charts, and line chart built from pivot data
+- Slicers - interactive filters for Outlet Size, Location Type, and Item Type
+- Dynamic "View By" toggle - switching between Sales, Count, and Rating metrics
 
 ## Software 
 - Microsoft Excel 
